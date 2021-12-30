@@ -1,3 +1,2 @@
-gradlew linguist-generated=true
-gradlew.bat linguist-generated=true
-* text eol=lf
+# Auto detect text files and perform LF normalization
+* text=auto

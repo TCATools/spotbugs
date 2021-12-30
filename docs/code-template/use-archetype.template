@@ -1,4 +1,0 @@
-$ mvn archetype:generate \
-      -DarchetypeArtifactId=spotbugs-archetype \
-      -DarchetypeGroupId=com.github.spotbugs \
-      -DarchetypeVersion=|archetype|

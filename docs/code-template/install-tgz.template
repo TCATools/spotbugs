@@ -1,1 +1,0 @@
-$ gunzip -c spotbugs-|release|.tgz | tar xvf -
